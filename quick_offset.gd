@@ -1,8 +1,6 @@
 tool
 extends Node
 
-const DOT_SIZE = 10
-const DOT_COLOR = Color("#ffffff")
 var objects = []
 
 func set_quick_offset(anchor):
